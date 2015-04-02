@@ -1,4 +1,4 @@
 test-repo
 =========
 
-Just testing
+This has been repurposed for our confusion in learning Git for BIS180L
