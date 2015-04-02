@@ -1,0 +1,45 @@
+commit 081ab004929e6024cdf6ce733dc108727e391c42
+Author: tvkent <tvkent@gmail.com>
+Date:   Thu Apr 2 15:02:55 2015 -0700
+
+    added my plans to this other one because we are all very confused
+
+commit cbae6e6214ce199fbb1bbb524998dea2a9979ea4
+Merge: 01fb315 c38e50d
+Author: tvkent <tvkent@gmail.com>
+Date:   Thu Apr 2 14:56:33 2015 -0700
+
+    Merge branch 'master' of https://github.com/jennycade/test-repo
+
+commit 01fb3153cbbcc40fe05a430258d5dc3ebcff5a7f
+Author: tvkent <tvkent@gmail.com>
+Date:   Thu Apr 2 14:55:24 2015 -0700
+
+    added tyler's plans
+
+commit c38e50d19c0d5fd0c364b8e527a493bca2275fa2
+Author: bis180lstudent <jennycade@gmail.com>
+Date:   Thu Apr 2 14:54:50 2015 -0700
+
+    Adding the text file
+
+commit a785df437ce5c341961d3f42acc24a8119c095da
+Merge: f409f7e bf71f2f
+Author: bis180lstudent <jennycade@gmail.com>
+Date:   Thu Apr 2 14:46:25 2015 -0700
+
+    Merge branch 'master' of https://github.com/jennycade/test-repo
+    
+    I have no idea what's going on.
+
+commit f409f7e278717612cf6519b09922b3304ba11a10
+Author: bis180lstudent <jennycade@gmail.com>
+Date:   Thu Apr 2 14:43:24 2015 -0700
+
+    Added file with weekend plans
+
+commit bf71f2f5ea7990df605511858146ceab84f844bb
+Author: jennycade <jennycade@gmail.com>
+Date:   Tue May 13 13:06:58 2014 -0700
+
+    Initial commit
